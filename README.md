@@ -9,3 +9,4 @@ imagens/: Pasta contendo as imagens utilizadas no currículo (foto de perfil, í
 Tecnologias Utilizadas:
 HTML5
 
+![curriculo estagio java imagem](https://github.com/user-attachments/assets/80626c84-68f7-49a1-9178-9b5eda0930cd)
